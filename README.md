@@ -22,5 +22,4 @@
 
 
 Example Image:
-![alt text](https://github.com/shrey19702/American_Sign_Language_detection/blob/images/image1.jpg?raw=true)
-![plot](../images/image1.jpg)
+![sign_image1](image1.jpg)
